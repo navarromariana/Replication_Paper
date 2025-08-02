@@ -1,4 +1,4 @@
-The objective of this folder is to provide accessible econometric and statistical code (R) derived from the replication process, intended to serve as educational resources for students and researchers.
+The objective of this folder is to provide accessible econometric and statistical code (STATA) derived from the replication process, intended to serve as educational resources for students and researchers.
 This is done by replicating the pivotal research outlined in Emerick, K., De Janvry, A., Sadoulet, E.,
 Dar, M. H. (2016). "Technological innovations, downside risk, and the modernization of agriculture", which
 highlighted the transformative impact of flood-tolerant rice technology among smallholder farmers. The research question is to investigate whether the introduction of an
